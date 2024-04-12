@@ -1,0 +1,10 @@
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\bin\Debug\Рисунок 3.exe.config
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\bin\Debug\Рисунок 3.exe
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\bin\Debug\Рисунок 3.pdb
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\obj\Debug\Рисунок 3.csproj.AssemblyReference.cache
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\obj\Debug\Рисунок_3.Form1.resources
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\obj\Debug\Рисунок_3.Properties.Resources.resources
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\obj\Debug\Рисунок 3.csproj.GenerateResource.cache
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\obj\Debug\Рисунок 3.csproj.CoreCompileInputs.cache
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\obj\Debug\Рисунок 3.exe
+C:\Users\koa93\source\repos\Рисунок 3\Рисунок 3\obj\Debug\Рисунок 3.pdb
